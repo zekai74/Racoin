@@ -1,0 +1,2 @@
+# Racoin
+RAC / Racoin 
